@@ -13,3 +13,7 @@ I know the following programming languages:
 -Python
 -C/C++
 And my favorite language currently is _Python_ because <ins>it's easy to understand and implement</ins>.
+
+
+## My Octocat
+<img src="octocat.png" width="30%" />
